@@ -2,12 +2,14 @@
 Hello! This is a repository for my Applied Data Science Capstone Project. 
 
 ############
+
 Quick Overview
 The main objective of this project is to develop models that can predict the landing outcome of the first stage of the Falcon 9 rocket. 
 This repository contains Jupyter Notebooks with their necessary outputs as well as a .pyw file for the dash application. 
 The data needed to run the Jupyter Notebooks are not included in this repository, except for the folium Jupyter notebook.
 However, it is possible to acquire the data using the Data Collection.ipynb and Webscraping.ipynb if so desired.
 The data needed to run the dash application is included however, so if you want to try the dash application out, you can do so.
+
 ############
 
 The following are short descriptions for the files included in this repository:
