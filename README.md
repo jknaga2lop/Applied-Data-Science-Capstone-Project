@@ -13,20 +13,28 @@ The data needed to run the dash application is included however, so if you want 
 ############
 
 The following are short descriptions for the files included in this repository:
+
 [1] Data Collection
 In this notebook, we request data from the SpaceX API and perform a bit of data wrangling
+
 [2] Webscraping
 In this notebook, we use beautifulsoup to webscrape the necessary information from a Wikipedia page.
+
 [3] Data Wrangling
 In this notebook, we preprocess the data and perform necessary cleaning.
+
 [4] SQL
 In this notebook, we load a table into a database and use SQL to perform queries and gain insight on the data.
+
 [5] Exploratory Data Analysis
 In this notebook, we use EDA and data visualization to gain further understanding of the data and perform feature engineering.
+
 [6] Folium
 In this notebook, we use folium to visualize the launch sites and understand the context of the launches in a geographic scale.
+
 [7] Dash
 In this .pyw file, we create interactive dashboards for data visualization. Personally, my favorite part of the whole project.
+
 [8] Machine Learning
 In this notebook, we train and test our models to meet our objectives.
 
