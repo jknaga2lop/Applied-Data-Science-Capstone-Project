@@ -32,8 +32,8 @@ In this notebook, we use EDA and data visualization to gain further understandin
 [6] Folium
 In this notebook, we use folium to visualize the launch sites and understand the context of the launches in a geographic scale.
 
-[7] Dash
-In this .pyw file, we create interactive dashboards for data visualization. Personally, my favorite part of the whole project.
+[7] Dash App
+In this .py file, we create interactive dashboards for data visualization. Personally, my favorite part of the whole project.
 
 [8] Machine Learning
 In this notebook, we train and test our models to meet our objectives.
